@@ -1,0 +1,6 @@
+framework module Pods_Reach_Sample {
+  umbrella header "Pods-Reach Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
