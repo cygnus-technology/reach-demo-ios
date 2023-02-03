@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Components/Icon/Disabled/User Alt Copy</title>
+    <defs>
+        <path d="M12,4 C7.5816,4 4,7.5816 4,12 C4,16.4184 7.5816,20 12,20 C16.4184,20 20,16.4184 20,12 C20,7.5816 16.4184,4 12,4 Z M12,6.2 C13.436,6.2 14.6,7.364 14.6,8.8 C14.6,10.236 13.436,11.4 12,11.4 C10.564,11.4 9.4,10.236 9.4,8.8 C9.4,7.364 10.564,6.2 12,6.2 Z M12,18.4 C10.0496,18.4 8.3032,17.5272 7.1296,16.1504 C6.8248,15.7928 6.8928,15.256 7.268,14.9736 C8.4816,14.0608 10.6928,13.6 12,13.6 C13.3072,13.6 15.5184,14.0608 16.7328,14.9736 C17.108,15.256 17.176,15.7936 16.8712,16.1504 C15.6968,17.5272 13.9504,18.4 12,18.4 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-232.000000, -1120.000000)">
+            <g id="User-icon" transform="translate(228.000000, 1116.000000)">
+                <use fill="#2A3347" xlink:href="#path-1"></use>
+                <use fill-opacity="0.4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

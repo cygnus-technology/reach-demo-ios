@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Components/Icon/Disabled/ScreenShare Copy</title>
+    <defs>
+        <path d="M18.6666667,16.375 C19.5833333,16.375 20.325,15.64375 20.325,14.75 L20.3333333,6.625 C20.3333333,5.723125 19.5833333,5 18.6666667,5 L5.33333333,5 C4.40833333,5 3.66666667,5.723125 3.66666667,6.625 L3.66666667,14.75 C3.66666667,15.64375 4.40833333,16.375 5.33333333,16.375 L2,16.375 L2,18 L22,18 L22,16.375 L18.6666667,16.375 Z M5.33333333,14.75 L5.33333333,6.625 L18.6666667,6.625 L18.6666667,14.758125 L5.33333333,14.75 Z M12.8333333,9.168125 C9.59166667,9.606875 8.3,11.768125 7.83333333,13.9375 C8.99166667,12.418125 10.5166667,11.7275 12.8333333,11.7275 L12.8333333,13.506875 L16.1666667,10.468125 L12.8333333,7.4375 L12.8333333,9.168125 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-230.000000, -677.000000)">
+            <g id="Shape" transform="translate(228.000000, 672.000000)">
+                <use fill="#2A3347" xlink:href="#path-1"></use>
+                <use fill-opacity="0.4" fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "NoDeviceConnected-Illustration.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

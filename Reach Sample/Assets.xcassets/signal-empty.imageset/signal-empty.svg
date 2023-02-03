@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Components/Icon/White/Signal-Empty</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-155.000000, -1268.000000)" fill="#FFFFFF">
+            <g id="Components/Icon/White/Android-Signal-Low-2-Copy-2" transform="translate(154.000000, 1264.000000)">
+                <path d="M23,4 L23,20 L17,20 L17,4 L23,4 Z M21,6 L19,6 L19,18 L21,18 L21,6 Z M15,8 L15,20 L9,20 L9,8 L15,8 Z M13,10 L11,10 L11,18 L13,18 L13,10 Z M7,12 L7,20 L1,20 L1,12 L7,12 Z M5,14 L3,14 L3,18 L5,18 L5,14 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

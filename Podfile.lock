@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.5.0)
+  - CocoaMQTT (2.0.9):
+    - CocoaMQTT/Core (= 2.0.9)
+  - CocoaMQTT/Core (2.0.9):
+    - MqttCocoaAsyncSocket (~> 1.0.8)
+  - CygnusReach (1.1.1):
+    - CocoaMQTT (~> 2.0.6)
+    - PromiseKit (~> 6.8)
+  - MqttCocoaAsyncSocket (1.0.8)
+  - PromiseKit (6.15.3):
+    - PromiseKit/CorePromise (= 6.15.3)
+    - PromiseKit/Foundation (= 6.15.3)
+    - PromiseKit/UIKit (= 6.15.3)
+  - PromiseKit/CorePromise (6.15.3)
+  - PromiseKit/Foundation (6.15.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.15.3):
+    - PromiseKit/CorePromise
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - CygnusReach (~> 1.1.0)
+  - PromiseKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs:
+    - Alamofire
+    - CocoaMQTT
+    - CygnusReach
+    - MqttCocoaAsyncSocket
+    - PromiseKit
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  CocoaMQTT: 76904ac6102297972e1a42343dd77a6da3862a69
+  CygnusReach: 5cbcc0e675529086a54205e51def143a71906e3c
+  MqttCocoaAsyncSocket: 77d3b74f76228dd5a05d1f9526eab101d415b30c
+  PromiseKit: 3b2b6995e51a954c46dbc550ce3da44fbfb563c5
+
+PODFILE CHECKSUM: 9e1fa20120bfb2a16d8fbe24a971fd9a38d9ae60
+
+COCOAPODS: 1.11.3
